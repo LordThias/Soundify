@@ -1,0 +1,19 @@
+{
+    "navn":"rock",
+    "mappe":"../spillelister/rock",
+    "sanger":[
+        {
+            "artist":"C418",
+            "tittel":"Music Disc 11",
+            "bildefil":"test",
+            "lydfil":"test"
+        },
+        {
+            "artist":"Rick Astley",
+            "tittel":"Never Gonna Give You Up",
+            "bildefil":"test",
+            "lydfil":"test"
+        }
+        
+    ]
+}
